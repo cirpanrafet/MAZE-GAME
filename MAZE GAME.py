@@ -49,10 +49,8 @@ class stack:
      
       self.visited[row][column] = 1 
          
-    while(stack):
-      row , column = stack[-1]
-      self.MAZE[row][column] = "1"
-      stack.pop()
+#Bu satırlar kodun en önemli bölümüdür.
+#Ulaşmak için cirpanrafet@gmail.com a mail atın.
       
     for a in range(self.n):
         for b in range(self.m):
