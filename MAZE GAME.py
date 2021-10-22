@@ -49,8 +49,9 @@ class stack:
      
       self.visited[row][column] = 1 
          
-#Bu satırlar kodun en önemli bölümüdür.
-#Ulaşmak için cirpanrafet@gmail.com a mail atın.
+#Bu satırlar kodun Veri Yapıları dersinin sabit ödevi olması nedeniyle gizlenmiştir.
+
+
       
     for a in range(self.n):
         for b in range(self.m):
